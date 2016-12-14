@@ -14,5 +14,14 @@ span:hover{
     color:# FFFFOO;
 }
 #secondspan{
-    color:purple;
+    color:hotpink;
+}
+th{
+    background-color:black;
+    color:white;
+    text-transform: uppercase;
+}
+table{
+    border:solid 1px;
+    
 }
